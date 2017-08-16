@@ -1,7 +1,7 @@
 # Swagger Resteasy
 ## run
 ```
-mvn package jetty:run
+mvn jetty:run
 ```
 ## swagger json file
 ```
